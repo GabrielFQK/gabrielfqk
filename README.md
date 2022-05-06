@@ -1,9 +1,5 @@
 <style>
-
-span {
-  color: #ff004d;
-}
-
+  
 #cards img {
   margin: 0 10px 20px;
 }
@@ -26,7 +22,7 @@ span {
   <img src="https://komarev.com/ghpvc/?username=gabrielfqk&style=flat-square&color=ff004d"/>
 <hr>
   <h1>
-    <span>Boas vindas</span> ao meu <span>perfil</span>!
+    <span style="color: #ff004d">Boas vindas</span> ao meu <span style="color: #ff004d">perfil</span>!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif">
