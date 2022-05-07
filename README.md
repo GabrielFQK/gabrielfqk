@@ -7,7 +7,7 @@
 
 Me chamo Gabriel Ferreira, atualmente moro em Campo Novo do Parecis no Mato Grosso, sou completamente apaixonado por tecnologia e sonho em ser um desenvolvedor Front end!
 
-Estudo Desenvolvimento Web Full Stack na [Trybe](https://betrybe.com)
+Estudo Desenvolvimento Web Full Stack na <a href="https://betrybe.com" target="_blank">Trybe</a>
 
 Você pode me encontrar em:
 <div>
