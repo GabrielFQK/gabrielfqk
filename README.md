@@ -5,11 +5,11 @@
 
 ### :man_technologist: Sobre mim
 
-Me chamo Gabriel Ferreira, atualmente moro em Campo Novo do Parecis no Mato Grosso, sou completamente apaixonado por tecnologia e sonho em ser um desenvolvedor Front end!
+:smirk_cat: Me chamo Gabriel Ferreira, atualmente moro em _Campo Novo do Parecis_ no  _Mato Grosso_, sou **completamente apaixonado** por tecnologia e sonho em poder impactar positivamente na vida das pessoas como desenvolvedor _Front-end_!
 
-Estudo Desenvolvimento Web Full Stack na <a href="https://betrybe.com" target="_blank">Trybe</a>
+:books: Estudo _Desenvolvimento Web Full Stack_ na **<a href="https://betrybe.com" target="_blank">Trybe</a>**
 
-Você pode me encontrar em:
+:pushpin: Você pode me encontrar em:
 <div>
   <span>
       <a href="https://linkedin.com/in/gabrielfqk" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -32,6 +32,7 @@ Você pode me encontrar em:
   <div>
     <span>
       <img src="https://img.shields.io/badge/JavaScript-100?style=for-the-badge&logo=javascript&logoColor=ff004d" />
+      <img src="https://img.shields.io/badge/Bash-100?style=for-the-badge&logo=gnu-bash&logoColor=ff004d" />
       <img src="https://img.shields.io/badge/GIT-100?style=for-the-badge&logo=git&logoColor=ff004d" />
       <img src="https://img.shields.io/badge/GITHUB-100?style=for-the-badge&logo=github&logoColor=ff004d" />
       <img src="https://img.shields.io/badge/Linux-100?style=for-the-badge&logo=linux&logoColor=ff004d" />
@@ -56,10 +57,10 @@ Você pode me encontrar em:
     <a href="#">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfqk&layout=compact&count_private=true&show_icons=true&title_color=ff004d&text_color=fff&icon_color=ff004d&border_color=ff004d&bg_color=45,100,170206&locale=pt-BR&border_radius=20&card_width=450" />
     </a>
+    <a href="https://wakatime.com/@gabrielfqk">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gabrielfqk&count_private=true&show_icons=true&title_color=ff004d&text_color=fff&icon_color=ff004d&border_color=ff004d&bg_color=45,100,170206&locale=pt-BR&border_radius=20&custom_title=Estatísticas do Wakatime&layout=compact" />
+    </a>
     <a href="#">
       <img src="https://github-readme-stats.vercel.app/api?username=gabrielfqk&count_private=true&show_icons=true&title_color=ff004d&text_color=fff&icon_color=ff004d&border_color=ff004d&bg_color=45,100,170206&locale=pt-BR&border_radius=20&custom_title=Estatísticas do GitHub" />
-    </a>
-    <a href="https://wakatime.com/@gabrielfqk">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gabrielfqk&count_private=true&show_icons=true&title_color=ff004d&text_color=fff&icon_color=ff004d&border_color=ff004d&bg_color=45,100,170206&locale=pt-BR&border_radius=20&custom_title=Estatísticas do Wakatime" />
     </a>
   </div>
