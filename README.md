@@ -5,7 +5,7 @@
 
 ### :man_technologist: Sobre mim
 
-:smirk_cat: Me chamo Gabriel Ferreira, atualmente moro em _Campo Novo do Parecis_ no  _Mato Grosso_, sou **completamente apaixonado** por tecnologia e sonho em poder impactar positivamente na vida das pessoas como desenvolvedor _Front-end_!
+:smirk_cat: Me chamo Gabriel Ferreira, atualmente moro em Campo Novo do Parecis no Mato Grosso, sou completamente apaixonado por tecnologia e sonho em poder impactar positivamente na vida das pessoas como desenvolvedor Front-end!
 
 :books: Estudo _Desenvolvimento Web Full Stack_ na **<a href="https://betrybe.com" target="_blank">Trybe</a>**
 
