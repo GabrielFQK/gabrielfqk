@@ -5,7 +5,7 @@
 
 ## :man_technologist: Sobre mim :man_technologist:
 
-:smirk_cat: Olá! Me chamo Gabriel Ferreira, atualmente moro em Campo Novo do Parecis no Mato Grosso, sou muito criativo e tenho muita curiosidade, por isso sempre estou tentando buscar aprender coisas novas! Sou completamente apaixonado por tecnologia e sonho em poder impactar positivamente na vida das pessoas como um (\_futuro\*) desenvolvedor Front-end!
+:smirk_cat: Olá! Me chamo Gabriel Ferreira, atualmente moro em Campo Novo do Parecis no Mato Grosso, sou muito criativo e tenho muita curiosidade, por isso sempre estou tentando buscar aprender coisas novas! Sou completamente apaixonado por tecnologia e sonho em poder impactar positivamente na vida das pessoas como um (_futuro_) desenvolvedor Front-end!
 
 :books: Estudo _Desenvolvimento Web Full Stack_ na **<a href="https://betrybe.com" target="_blank">Trybe</a>**, faço parte da _Turma 23_ - _Tribo A_, atualmente estou no módulo de _Fundamentos_. Você pode ver meu progresso e aprendizado [neste repositório](https://github.com/GabrielFQK/trybe-exercicios), onde estão todos os exercícios realizados no curso.
 
