@@ -1,15 +1,16 @@
 <div align="center">
   <img src="profile-banner.gif">
-  <img src="https://komarev.com/ghpvc/?username=gabrielfqk&style=for-the-badge&color=110000&label=Visualizações+do+perfil"/>
+  <img src="https://komarev.com/ghpvc/?username=gabrielfqk&style=for-the-badge&color=110011&label=Visualizações+do+perfil"/>
 </div>
 
-### :man_technologist: Sobre mim
+## :man_technologist: Sobre mim :man_technologist:
 
-:smirk_cat: Me chamo Gabriel Ferreira, atualmente moro em Campo Novo do Parecis no Mato Grosso, sou completamente apaixonado por tecnologia e sonho em poder impactar positivamente na vida das pessoas como desenvolvedor Front-end!
+:smirk_cat: Olá! Me chamo Gabriel Ferreira, atualmente moro em Campo Novo do Parecis no Mato Grosso, sou muito criativo e tenho muita curiosidade, por isso sempre estou tentando buscar aprender coisas novas! Sou completamente apaixonado por tecnologia e sonho em poder impactar positivamente na vida das pessoas como um (\_futuro\*) desenvolvedor Front-end!
 
-:books: Estudo _Desenvolvimento Web Full Stack_ na **<a href="https://betrybe.com" target="_blank">Trybe</a>**
+:books: Estudo _Desenvolvimento Web Full Stack_ na **<a href="https://betrybe.com" target="_blank">Trybe</a>**, faço parte da _Turma 23_ - _Tribo A_, atualmente estou no módulo de _Fundamentos_. Você pode ver meu progresso e aprendizado [neste repositório](https://github.com/GabrielFQK/trybe-exercicios), onde estão todos os exercícios realizados no curso.
 
 :pushpin: Você pode me encontrar em:
+
 <div>
   <span>
       <a href="https://linkedin.com/in/gabrielfqk" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -18,49 +19,56 @@
   </span>
 </div>
 
-### :rocket: Tecnologias & Ferramentas
+## :rocket: Tecnologias & Ferramentas :rocket:
 
-* Tenho experiência:
+#### :muscle: Tenho experiência:
+
   <div>
     <span>
-      <img src="https://img.shields.io/badge/HTML5-100?style=for-the-badge&logo=html5&logoColor=ff004d" />
-      <img src="https://img.shields.io/badge/CSS3-100?style=for-the-badge&logo=css3&logoColor=ff004d" />
+      <img src="https://img.shields.io/badge/HTML5-101?style=for-the-badge&logo=html5&logoColor=7028FF" />
+      <img src="https://img.shields.io/badge/CSS3-101?style=for-the-badge&logo=css3&logoColor=7028FF" />
     </span>
   </div>
 
-* Estou estudando:
+#### :ledger: Estou estudando:
+
   <div>
     <span>
-      <img src="https://img.shields.io/badge/JavaScript-100?style=for-the-badge&logo=javascript&logoColor=ff004d" />
-      <img src="https://img.shields.io/badge/Bash-100?style=for-the-badge&logo=gnu-bash&logoColor=ff004d" />
-      <img src="https://img.shields.io/badge/GIT-100?style=for-the-badge&logo=git&logoColor=ff004d" />
-      <img src="https://img.shields.io/badge/GITHUB-100?style=for-the-badge&logo=github&logoColor=ff004d" />
-      <img src="https://img.shields.io/badge/Linux-100?style=for-the-badge&logo=linux&logoColor=ff004d" />
+      <img src="https://img.shields.io/badge/JavaScript-101?style=for-the-badge&logo=javascript&logoColor=7028FF" />
+      <img src="https://img.shields.io/badge/Bash-101?style=for-the-badge&logo=gnu-bash&logoColor=7028FF" />
+      <img src="https://img.shields.io/badge/GIT-101?style=for-the-badge&logo=git&logoColor=7028FF" />
+      <img src="https://img.shields.io/badge/GITHUB-101?style=for-the-badge&logo=github&logoColor=7028FF" />
+      <img src="https://img.shields.io/badge/Linux-101?style=for-the-badge&logo=linux&logoColor=7028FF" />
     </span>
   </div>
 
-* Quero aprender:
+#### :sparkles: Quero aprender:
+
   <div>
     <span>
-      <img src="https://img.shields.io/badge/TypeScript-100?style=for-the-badge&logo=typescript&logoColor=ff004d" />
-      <img src="https://img.shields.io/badge/Node.js-100?style=for-the-badge&logo=node.js&logoColor=ff004d" />
-      <img src="https://img.shields.io/badge/MySQL-100?style=for-the-badge&logo=mysql&logoColor=ff004d" />
-      <img src="https://img.shields.io/badge/Electron-100?style=for-the-badge&logo=electron&logoColor=ff004d" />
-      <img src="https://img.shields.io/badge/React-100?style=for-the-badge&logo=react&logoColor=ff004d" />
-      <img src="https://img.shields.io/badge/React_Native-100?style=for-the-badge&logo=react&logoColor=ff004d" />
+      <img src="https://img.shields.io/badge/sass-101?style=for-the-badge&logo=sass&logoColor=7028FF" />
+      <img src="https://img.shields.io/badge/TypeScript-101?style=for-the-badge&logo=typescript&logoColor=7028FF" />
+      <img src="https://img.shields.io/badge/bootstrap-101?style=for-the-badge&logo=bootstrap&logoColor=7028FF" />
+      <img src="https://img.shields.io/badge/jquery-101?style=for-the-badge&logo=jquery&logoColor=7028FF" />
+      <img src="https://img.shields.io/badge/React-101?style=for-the-badge&logo=react&logoColor=7028FF" />
+      <img src="https://img.shields.io/badge/React_Native-101?style=for-the-badge&logo=react&logoColor=7028FF" />
+      <img src="https://img.shields.io/badge/Electron-101?style=for-the-badge&logo=electron&logoColor=7028FF" />
+      <img src="https://img.shields.io/badge/Node.js-101?style=for-the-badge&logo=node.js&logoColor=7028FF" />
+      <img src="https://img.shields.io/badge/MySQL-101?style=for-the-badge&logo=mysql&logoColor=7028FF" />
+      <img src="https://img.shields.io/badge/Figma-101?style=for-the-badge&logo=figma&logoColor=7028FF" />
     </span>
   </div>
 
-### :zap: Estatísticas
+## :zap: Estatísticas :zap:
 
   <div>
     <a href="#">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfqk&layout=compact&count_private=true&show_icons=true&title_color=ff004d&text_color=fff&icon_color=ff004d&border_color=ff004d&bg_color=45,100,170206&locale=pt-BR&border_radius=20&card_width=450" />
+      <img src="https://github-readme-stats.vercel.app/api?username=gabrielfqk&count_private=true&show_icons=true&title_color=7028FF&text_color=fff&icon_color=7028FF&border_color=7028FF&bg_color=101&locale=pt-BR&border_radius=20&custom_title=Estatísticas do GitHub" />
+    </a>
+    <a href="#">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfqk&layout=compact&count_private=true&show_icons=true&title_color=7028FF&text_color=fff&icon_color=7028FF&border_color=7028FF&bg_color=101&locale=pt-BR&border_radius=20&card_width=445" />
     </a>
     <a href="https://wakatime.com/@gabrielfqk">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gabrielfqk&count_private=true&show_icons=true&title_color=ff004d&text_color=fff&icon_color=ff004d&border_color=ff004d&bg_color=45,100,170206&locale=pt-BR&border_radius=20&custom_title=Estatísticas do Wakatime&layout=compact" />
-    </a>
-    <a href="#">
-      <img src="https://github-readme-stats.vercel.app/api?username=gabrielfqk&count_private=true&show_icons=true&title_color=ff004d&text_color=fff&icon_color=ff004d&border_color=ff004d&bg_color=45,100,170206&locale=pt-BR&border_radius=20&custom_title=Estatísticas do GitHub" />
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gabrielfqk&count_private=true&show_icons=true&title_color=7028FF&text_color=fff&icon_color=7028FF&border_color=7028FF&bg_color=101&locale=pt-BR&border_radius=20&custom_title=Estatísticas do Wakatime&layout=compact" />
     </a>
   </div>
