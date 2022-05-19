@@ -27,6 +27,7 @@
     <span>
       <img src="https://img.shields.io/badge/HTML5-101?style=for-the-badge&logo=html5&logoColor=7028FF" />
       <img src="https://img.shields.io/badge/CSS3-101?style=for-the-badge&logo=css3&logoColor=7028FF" />
+      <img src="https://img.shields.io/badge/Visual Studio Code-101?style=for-the-badge&logo=visualstudiocode&logoColor=7028FF" />
     </span>
   </div>
 
@@ -47,11 +48,13 @@
   <div>
     <span>
       <img src="https://img.shields.io/badge/sass-101?style=for-the-badge&logo=sass&logoColor=7028FF" />
+      <img src="https://img.shields.io/badge/Tailwind Css-101?style=for-the-badge&logo=tailwindcss&logoColor=7028FF" />
       <img src="https://img.shields.io/badge/TypeScript-101?style=for-the-badge&logo=typescript&logoColor=7028FF" />
       <img src="https://img.shields.io/badge/bootstrap-101?style=for-the-badge&logo=bootstrap&logoColor=7028FF" />
       <img src="https://img.shields.io/badge/jquery-101?style=for-the-badge&logo=jquery&logoColor=7028FF" />
       <img src="https://img.shields.io/badge/React-101?style=for-the-badge&logo=react&logoColor=7028FF" />
       <img src="https://img.shields.io/badge/React_Native-101?style=for-the-badge&logo=react&logoColor=7028FF" />
+      <img src="https://img.shields.io/badge/Material UI-101?style=for-the-badge&logo=mui&logoColor=7028FF" />
       <img src="https://img.shields.io/badge/Electron-101?style=for-the-badge&logo=electron&logoColor=7028FF" />
       <img src="https://img.shields.io/badge/Node.js-101?style=for-the-badge&logo=node.js&logoColor=7028FF" />
       <img src="https://img.shields.io/badge/MySQL-101?style=for-the-badge&logo=mysql&logoColor=7028FF" />
@@ -69,6 +72,6 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfqk&layout=compact&count_private=true&show_icons=true&title_color=7028FF&text_color=fff&icon_color=7028FF&border_color=7028FF&bg_color=101&locale=pt-BR&border_radius=20&card_width=445" />
     </a>
     <a href="https://wakatime.com/@gabrielfqk">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gabrielfqk&count_private=true&show_icons=true&title_color=7028FF&text_color=fff&icon_color=7028FF&border_color=7028FF&bg_color=101&locale=pt-BR&border_radius=20&custom_title=Estatísticas do Wakatime&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gabrielfqk&count_private=true&show_icons=true&title_color=7028FF&text_color=fff&icon_color=7028FF&border_color=7028FF&bg_color=101&locale=pt-BR&border_radius=20&hide_title=true&layout=compact&langs_count=4" />
     </a>
   </div>
