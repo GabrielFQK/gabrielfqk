@@ -21,20 +21,13 @@
 
 ## :rocket: Tecnologias & Ferramentas :rocket:
 
-#### :muscle: Tenho experiência:
+#### :ledger: Estou estudando:
 
   <div>
     <span>
       <img src="https://img.shields.io/badge/HTML5-101?style=for-the-badge&logo=html5&logoColor=7028FF" />
       <img src="https://img.shields.io/badge/CSS3-101?style=for-the-badge&logo=css3&logoColor=7028FF" />
       <img src="https://img.shields.io/badge/Visual Studio Code-101?style=for-the-badge&logo=visualstudiocode&logoColor=7028FF" />
-    </span>
-  </div>
-
-#### :ledger: Estou estudando:
-
-  <div>
-    <span>
       <img src="https://img.shields.io/badge/JavaScript-101?style=for-the-badge&logo=javascript&logoColor=7028FF" />
       <img src="https://img.shields.io/badge/Bash-101?style=for-the-badge&logo=gnu-bash&logoColor=7028FF" />
       <img src="https://img.shields.io/badge/GIT-101?style=for-the-badge&logo=git&logoColor=7028FF" />
